@@ -17,8 +17,8 @@
 ---
 
 ### You can find in me in the web 🌍
-[<img src="./svg/telegram.svg">](https://t.me/dimaver6)
-[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:dimaver6@gmail.com)
+[<img src="./svg/Telegram.svg">](https://t.me/dimaver6)
+[<img src="./svg/Gmail.svg" width="90px" height="90px">](mailto:dimaver6@gmail.com)
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/dmytro-vereshchahin)
 
 Let's connect 👨‍💻 and forge the future together.😁✌
