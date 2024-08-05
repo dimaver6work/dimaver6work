@@ -41,7 +41,7 @@ My experience includes working in product companies, outsourcing firms, and star
       </td>
       <td width="25%" align="center">
         <span><strong>NextJS</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg">
+        <img height="64px" src="./svg/nextjs.svg">
       </td>
     </tr>
     <tr valign="top">
