@@ -68,7 +68,7 @@ My experience includes working in product companies, outsourcing firms, and star
       </tr>
       <tr valign="top">    
       <td width="25%" align="center">
-        <span>Redux</span><br><br><br>
+        <span>Tailwind</span><br><br><br>
         <img height="64px" src="./svg/tailwind.svg">
       </td>
       <td width="25%" align="center">
