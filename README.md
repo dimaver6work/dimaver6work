@@ -39,6 +39,10 @@ My experience includes working in product companies, outsourcing firms, and star
         <span><strong>React</strong></span><br><br><br>
         <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg">
       </td>
+      <td width="25%" align="center">
+        <span><strong>NextJS</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg">
+      </td>
     </tr>
     <tr valign="top">
     </tr>
@@ -53,8 +57,20 @@ My experience includes working in product companies, outsourcing firms, and star
         <span>GraphQL</span><br><br><br>
         <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/graphql.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Rest Api</span><br><br><br>
+        <img height="64px" src="./svg/rest.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Redux</span><br><br><br>
+        <img height="64px" src="./svg/redux.svg">
+      </td>
       </tr>
       <tr valign="top">    
+      <td width="25%" align="center">
+        <span>Redux</span><br><br><br>
+        <img height="64px" src="./svg/tailwind.svg">
+      </td>
       <td width="25%" align="center">
         <span><strong>Bootstrap</strong></span><br><br><br>
         <img height="64px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
